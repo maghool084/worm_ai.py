@@ -1,0 +1,2 @@
+web: gunicorn worm_ai:app & python3 worm_ai.py
+
